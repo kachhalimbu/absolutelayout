@@ -21,7 +21,7 @@
 				<button id="sayHello" label="Greet"></button>
 				<textbox id="name"></textbox>
 			</window>
-		</absolutechildren>
+		</absolutechildren>                       
 		<absolutechildren id="abChildPanel" x="0" y="250">
 			<panel id="panel1" height="100px" width="200px" style="margin-bottom:10px"
 			     title="Panel1" border="normal" maximizable="true"
