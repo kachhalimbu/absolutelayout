@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package name="org.zkoss.addon.absolutelayout" language="xul/html">
+	<widget name="Absolutelayout" />
+	<widget name="Absolutechildren" />
+</package>

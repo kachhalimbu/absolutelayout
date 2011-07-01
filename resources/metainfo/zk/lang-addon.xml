@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<language-addon>
+	<addon-name>Absolutelayout</addon-name>
+
+ 	<version>
+		<version-class>org.zkoss.addon.absolutelayout.Version</version-class>
+		<version-uid>0.8.0</version-uid>
+		<zk-version>5.0.0</zk-version> <!-- or later -->
+	</version>
+
+	<language-name>xul/html</language-name>
+	<component>
+		<component-name>absolutelayout</component-name>
+		<component-class>org.zkoss.addon.absolutelayout.Absolutelayout</component-class>
+		<widget-class>org.zkoss.addon.absolutelayout.Absolutelayout</widget-class>
+		<mold>
+			<mold-name>default</mold-name>
+			<mold-uri>mold/absolutelayout.js</mold-uri>
+			<css-uri>css/absolutelayout.css.dsp</css-uri>
+		</mold>
+	</component>
+	<component>
+		<component-name>absolutechildren</component-name>
+		<component-class>org.zkoss.addon.absolutelayout.Absolutechildren</component-class>
+		<widget-class>org.zkoss.addon.absolutelayout.Absolutechildren</widget-class>
+		<mold>
+			<mold-name>default</mold-name>
+			<mold-uri>mold/absolutechildren.js</mold-uri>
+			<css-uri>css/absolutechildren.css.dsp</css-uri>
+		</mold>
+	</component>
+</language-addon>
