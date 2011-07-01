@@ -1,0 +1,6 @@
+ZK custom component - Absolutelayout/Absolutechildren components
+
+Brief descrption 
+--Absolutelayout is a container component that can contain absolute positioned abosultechildren components as specified by x and y attribute values.
+--Absolutechildren component can contain any type ZK components.
+--Absolutelayout component can expand to contain its absolutechildren components.
